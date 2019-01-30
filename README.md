@@ -2,8 +2,6 @@
 NewsWCL50 is the first, openly available evaluation dataset for methods seeking to identify bias by word choice and labeling.
 
 The dataset consists (besides some additional files such as the readme you are currently reading) of two files:
-* : 
-* : 
 
 | Name        | Description  | 
 | ------------- |-------------|
