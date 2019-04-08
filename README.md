@@ -23,6 +23,9 @@ If you are using NewsWCL50, please cite our paper (soon to be publicly available
 
 You can find more information on this and other news projects on our [website](https://dke.uni-wuppertal.de/en/projects/news-please.html).
 
+## Recreate the full dataset
+Information on how to recreate the full dataset will be available here soon.
+
 ## License
 Licensed under the Attribution-ShareAlike 4.0 International (the "License"); you may not use NewsWCL50 except in compliance with the License. A copy of the License is included in the project, see the file [LICENSE](LICENSE).
 
