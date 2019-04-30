@@ -14,7 +14,7 @@ Please cite our [paper](https://www.gipp.com/wp-content/papercite-data/pdf/hambo
 @InProceedings{Hamborg2019a,
   author    = {Hamborg, Felix and Zhukova, Anastasia and Gipp, Bela},
   title     = {Automated Identification of Media Bias by Word Choice and Labeling in News Articles},
-  booktitle = {Proceedings of the ACM/IEEE-CS Joint Conference on Digital Libraries (JCDL)},
+  booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL)},
   year      = {2019},
   month     = {Jun.},
   location  = {Urbana-Champaign, USA}
