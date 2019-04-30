@@ -9,7 +9,7 @@ The dataset consists (besides some additional files such as the readme you are c
 | `Codebook.pdf` | The codebook used to conduct the final deductive content analysis. |
 
 ## How to cite
-If you are using NewsWCL50, please cite our paper (soon to be publicly available):
+If you are using NewsWCL50, please cite our [paper](https://www.gipp.com/wp-content/papercite-data/pdf/hamborg2019a.pdf):
 ```
 @InProceedings{Hamborg2019a,
   author    = {Hamborg, Felix and Zhukova, Anastasia and Gipp, Bela},
