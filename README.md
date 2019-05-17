@@ -23,7 +23,7 @@ Please cite our [paper](https://www.gipp.com/wp-content/papercite-data/pdf/hambo
 
 You can find more information on this and other news projects on our [website](https://dke.uni-wuppertal.de/en/projects/media-bias-analysis.html).
 
-## Recreate the full dataset
+## Gathering the original news articles
 NewsWCL50 only contains the annotated parts of the news articles. Due to copyright law, we cannot offer the original articles. However, you can quickly gather the original articles, if you need to work not only with our annotations but also the remainder of the text. In the file [urls.tsv](urls.tsv), each row represents a single article, identified uniquely by its event id, publisher id, and URL. For each article, visit that URL and copy the article's text, including the headline, into a text document. 
 
 ## License
