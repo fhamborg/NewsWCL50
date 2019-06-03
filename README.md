@@ -27,7 +27,7 @@ Please cite our [paper](https://www.gipp.com/wp-content/papercite-data/pdf/hambo
 }
 ```
 
-You can find more information on this and other news projects on our [website](https://dke.uni-wuppertal.de/en/projects/media-bias-analysis.html).
+You can find more information on this and other news projects on our [website](https://www.isg.uni-konstanz.de/projects/media-bias-analysis/).
 
 ## License
 Licensed under the Attribution-ShareAlike 4.0 International (the "License"); you may not use NewsWCL50 except in compliance with the License. A copy of the License is included in the project, see the file [LICENSE](LICENSE).
