@@ -11,6 +11,9 @@ The dataset consists (besides some additional files such as the readme you are c
 
 For more information on the dataset, please have a look at our [paper](https://www.gipp.com/wp-content/papercite-data/pdf/hamborg2019a.pdf).
 
+## CoNLL format for CDCR
+To access the part of the dataset parsed for cross-document coreference resolution (CDCR) in CoNLL and JSON format with access to the full articles, please refer to this repository of [the diverse CDCR datasets](https://github.com/anastasia-zhukova/Diverse_CDCR_datasets). 
+
 ## Gathering the original news articles
 NewsWCL50 only contains the annotated parts of the news articles. Due to copyright law, we cannot offer the original articles. However, you can quickly gather the original articles, if you need to work not only with our annotations but also the remainder of the text. In the file [urls.tsv](urls.tsv), each row represents a single article, identified uniquely by its event id, publisher id, and URL. For each article, visit that URL and copy the article's text, including the headline, into a text document. 
 
